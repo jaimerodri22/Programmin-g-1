@@ -1,0 +1,12 @@
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite club\Favourite club\bin\Debug\Favourite club.exe.config
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite club\Favourite club\bin\Debug\Favourite club.exe
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite club\Favourite club\bin\Debug\Favourite club.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite club\Favourite club\bin\Debug\IronPython.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite club\Favourite club\bin\Debug\IronPython.Modules.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite club\Favourite club\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite club\Favourite club\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite club\Favourite club\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite club\Favourite club\obj\Debug\Favourite club.pyprojResolveAssemblyReference.cache
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite club\Favourite club\obj\Debug\Favourite_club.MainForm.resources
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite club\Favourite club\obj\Debug\Favourite club.pyproj.GenerateResource.Cache
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite club\Favourite club\obj\Debug\Favourite club.exe

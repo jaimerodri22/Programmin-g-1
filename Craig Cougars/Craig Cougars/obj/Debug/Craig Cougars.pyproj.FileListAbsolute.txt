@@ -1,0 +1,12 @@
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Craig Cougars\Craig Cougars\bin\Debug\Craig Cougars.exe.config
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Craig Cougars\Craig Cougars\bin\Debug\Craig Cougars.exe
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Craig Cougars\Craig Cougars\bin\Debug\Craig Cougars.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Craig Cougars\Craig Cougars\bin\Debug\IronPython.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Craig Cougars\Craig Cougars\bin\Debug\IronPython.Modules.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Craig Cougars\Craig Cougars\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Craig Cougars\Craig Cougars\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Craig Cougars\Craig Cougars\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Craig Cougars\Craig Cougars\obj\Debug\Craig Cougars.pyprojResolveAssemblyReference.cache
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Craig Cougars\Craig Cougars\obj\Debug\Craig_Cougars.MainForm.resources
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Craig Cougars\Craig Cougars\obj\Debug\Craig Cougars.pyproj.GenerateResource.Cache
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Craig Cougars\Craig Cougars\obj\Debug\Craig Cougars.exe

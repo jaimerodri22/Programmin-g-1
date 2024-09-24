@@ -1,0 +1,12 @@
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite quote\Favourite quote\bin\Debug\Favourite quote.exe.config
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite quote\Favourite quote\bin\Debug\Favourite quote.exe
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite quote\Favourite quote\bin\Debug\Favourite quote.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite quote\Favourite quote\bin\Debug\IronPython.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite quote\Favourite quote\bin\Debug\IronPython.Modules.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite quote\Favourite quote\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite quote\Favourite quote\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite quote\Favourite quote\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite quote\Favourite quote\obj\Debug\Favourite quote.pyprojResolveAssemblyReference.cache
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite quote\Favourite quote\obj\Debug\Favourite_quote.MainForm.resources
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite quote\Favourite quote\obj\Debug\Favourite quote.pyproj.GenerateResource.Cache
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite quote\Favourite quote\obj\Debug\Favourite quote.exe

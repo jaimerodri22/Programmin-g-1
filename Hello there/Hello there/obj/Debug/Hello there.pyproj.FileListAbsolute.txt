@@ -1,0 +1,12 @@
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Hello there\Hello there\bin\Debug\Hello there.exe.config
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Hello there\Hello there\bin\Debug\Hello there.exe
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Hello there\Hello there\bin\Debug\Hello there.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Hello there\Hello there\bin\Debug\IronPython.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Hello there\Hello there\bin\Debug\IronPython.Modules.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Hello there\Hello there\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Hello there\Hello there\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Hello there\Hello there\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Hello there\Hello there\obj\Debug\Hello there.pyprojResolveAssemblyReference.cache
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Hello there\Hello there\obj\Debug\Hello_there.MainForm.resources
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Hello there\Hello there\obj\Debug\Hello there.pyproj.GenerateResource.Cache
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Hello there\Hello there\obj\Debug\Hello there.exe

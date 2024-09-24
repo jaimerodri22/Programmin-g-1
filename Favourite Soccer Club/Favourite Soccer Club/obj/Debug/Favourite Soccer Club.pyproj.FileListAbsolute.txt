@@ -1,0 +1,12 @@
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite Soccer Club\Favourite Soccer Club\bin\Debug\Favourite Soccer Club.exe.config
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite Soccer Club\Favourite Soccer Club\bin\Debug\Favourite Soccer Club.exe
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite Soccer Club\Favourite Soccer Club\bin\Debug\Favourite Soccer Club.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite Soccer Club\Favourite Soccer Club\bin\Debug\IronPython.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite Soccer Club\Favourite Soccer Club\bin\Debug\IronPython.Modules.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite Soccer Club\Favourite Soccer Club\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite Soccer Club\Favourite Soccer Club\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite Soccer Club\Favourite Soccer Club\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite Soccer Club\Favourite Soccer Club\obj\Debug\Favourite Soccer Club.pyprojResolveAssemblyReference.cache
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite Soccer Club\Favourite Soccer Club\obj\Debug\Favourite_Soccer_Club.MainForm.resources
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite Soccer Club\Favourite Soccer Club\obj\Debug\Favourite Soccer Club.pyproj.GenerateResource.Cache
+C:\Users\rodriguezmoreir.j\Desktop\Programmin g-1\Favourite Soccer Club\Favourite Soccer Club\obj\Debug\Favourite Soccer Club.exe
